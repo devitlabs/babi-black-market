@@ -2,6 +2,8 @@
 
 Découvrez une nouvelle ère du shopping avec Babiblackm - l'application tout-en-un pour satisfaire tous vos besoins. Explorez un vaste éventail de produits, des délices gastronomiques aux technologies de pointe en passant par des vêtements élégants et des accessoires tendance, le tout réuni en un seul endroit pratique. 
 
+Cette application est la version mobile du site : https://www.babiblackmarket.com/
+
 ## Contenu
 
 - [Gastronomie](#gastronomie)
